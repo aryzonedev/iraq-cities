@@ -1,0 +1,118 @@
+{
+  "governorates": [
+    {
+      "id": "erbil",
+      "name_en": "Erbil",
+      "name_ar": "أربيل",
+      "name_ckb": "هەولێر"
+    },
+    {
+      "id": "sulaymaniyah",
+      "name_en": "Sulaymaniyah",
+      "name_ar": "السليمانية",
+      "name_ckb": "سلێمانی"
+    },
+    {
+      "id": "duhok",
+      "name_en": "Duhok",
+      "name_ar": "دهوك",
+      "name_ckb": "دهۆک"
+    },
+    {
+      "id": "halabja",
+      "name_en": "Halabja",
+      "name_ar": "حلبجة",
+      "name_ckb": "هەڵەبجە"
+    },
+    {
+      "id": "baghdad",
+      "name_en": "Baghdad",
+      "name_ar": "بغداد",
+      "name_ckb": "بەغدا"
+    },
+    {
+      "id": "ninewa",
+      "name_en": "Ninewa",
+      "name_ar": "نينوى",
+      "name_ckb": "نەینەوا"
+    },
+    {
+      "id": "kirkuk",
+      "name_en": "Kirkuk",
+      "name_ar": "كركوك",
+      "name_ckb": "کەرکووک"
+    },
+    {
+      "id": "diyala",
+      "name_en": "Diyala",
+      "name_ar": "ديالى",
+      "name_ckb": "دیالە"
+    },
+    {
+      "id": "salah-al-din",
+      "name_en": "Salah Al-Din",
+      "name_ar": "صلاح الدين",
+      "name_ckb": "سەڵاحەدین"
+    },
+    {
+      "id": "anbar",
+      "name_en": "Anbar",
+      "name_ar": "الأنبار",
+      "name_ckb": "ئەنبار"
+    },
+    {
+      "id": "basra",
+      "name_en": "Basra",
+      "name_ar": "البصرة",
+      "name_ckb": "بەسرە"
+    },
+    {
+      "id": "babil",
+      "name_en": "Babil",
+      "name_ar": "بابل",
+      "name_ckb": "بابل"
+    },
+    {
+      "id": "karbala",
+      "name_en": "Karbala",
+      "name_ar": "كربلاء",
+      "name_ckb": "کەربەلا"
+    },
+    {
+      "id": "najaf",
+      "name_en": "Najaf",
+      "name_ar": "النجف",
+      "name_ckb": "نەجەف"
+    },
+    {
+      "id": "wasit",
+      "name_en": "Wasit",
+      "name_ar": "واسط",
+      "name_ckb": "واست"
+    },
+    {
+      "id": "qadisiyah",
+      "name_en": "Qadisiyah",
+      "name_ar": "القادسية",
+      "name_ckb": "قادسیە"
+    },
+    {
+      "id": "maysan",
+      "name_en": "Maysan",
+      "name_ar": "ميسان",
+      "name_ckb": "میسان"
+    },
+    {
+      "id": "thi-qar",
+      "name_en": "Thi Qar",
+      "name_ar": "ذي قار",
+      "name_ckb": "زیقار"
+    },
+    {
+      "id": "muthanna",
+      "name_en": "Muthanna",
+      "name_ar": "المثنى",
+      "name_ckb": "موسەننا"
+    }
+  ]
+}
